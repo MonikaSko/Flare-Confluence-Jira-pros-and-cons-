@@ -81,10 +81,10 @@ This is a quite
 
 
 <!-- Example for Tables -->
-| Tables | Are | Cool |
-| --- | --- | --- |  
-| 1 | 2 | 3|
-| well | well | well |   
+|  tables | are  | cool  |  
+|---|---|---|
+|  1 |  2 |  3 | 
+| well  | well  | well  |     
 
 
 <!-- Paragraph after table -->
