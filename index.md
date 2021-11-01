@@ -81,10 +81,12 @@ This is a quite
 
 
 <!-- Example for Tables -->
-| First header | Second header | Third header |
-| --- | --- | --- |
-| ble ble ble | ble ble ble | ble ble |  
-| 1 | 2 | 3 |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 <!-- Paragraph after table -->
 
