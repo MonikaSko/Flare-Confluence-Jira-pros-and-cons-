@@ -83,10 +83,11 @@ This is a quite
 
 <!-- Example for Tables -->
 # Tables
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |   
+| tables | oh | god |  
+| --- | --- | --- |  
+| 1 | 2 | 3 |  
+| nie | jest| latwo |
+ 
 
 
 
