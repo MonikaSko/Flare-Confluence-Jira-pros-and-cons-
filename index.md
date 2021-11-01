@@ -81,9 +81,10 @@ This is a quite
 
 
 <!-- Example for Tables -->
-| First header | Second header | Third header|
-| ------------ | --------------|-------------|
-| ble ble ble  | ble ble ble   |  ble ble    |
+| First header | Second header | Third header |
+| --- | --- | --- |
+| ble ble ble | ble ble ble | ble ble |  
+| 1 | 2 | 3 |
 
 <!-- Paragraph after table -->
 
