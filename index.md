@@ -94,6 +94,7 @@ This is a quite
 <!-- Paragraph after table -->
 
 <!-- Here comes the TOC -->
+
 - [Normal text](#normal-text)
 - [Testing](#testing)
 - [Paragraph](#paragraph)
