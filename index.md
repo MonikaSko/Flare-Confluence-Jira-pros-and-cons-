@@ -82,7 +82,7 @@ This is a quite
 
 <!-- Example for Tables -->
 |  tables | are  | cool  |  
-|---|---|---|  
+| --- | --- | --- |  
 |  1 |  2 |  3 |  
 | well  | well  | well  |  
 
