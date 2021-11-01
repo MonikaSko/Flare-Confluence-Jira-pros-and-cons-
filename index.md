@@ -96,6 +96,7 @@ This is a quite
 
 <!-- Here comes the TOC -->
 
+TOC
 - [Normal text](#normal-text)
 - [Testing](#testing)
 - [Paragraph](#paragraph)
