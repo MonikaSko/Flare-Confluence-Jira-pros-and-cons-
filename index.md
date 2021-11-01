@@ -73,6 +73,7 @@ This is a quite
 <!-- Example for Bullet List -->
 
 <!-- Example for Numbered List -->
+# Numbered list
 1. Item 1
 2. Item 2
 3. Item 3
@@ -81,10 +82,11 @@ This is a quite
 
 
 <!-- Example for Tables -->
-  tables | are  | cool    
- --- | --- | ---  
-  1 |  2 |  3   
- well  | well  | well    
+# Tables
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |   
 
 
 
@@ -102,3 +104,5 @@ This is a quite
   - [Lower level header](#lower-level-header)
   - [Third subheader](#third-subheader)
 - [Guotes](#guotes)
+- [Numbered list](#numbered-list)
+- [Tables](#tables)
